@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.suggestion-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.arrow-button {
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+  background-color: white;
+}
